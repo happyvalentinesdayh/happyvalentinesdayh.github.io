@@ -1,0 +1,67 @@
+*{margin: 0; padding: 0}
+html {
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+    background-image: url("./bkgd1.png");
+    font-size: large;
+    background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+ 
+ body {
+    margin: 0px;
+    min-height: 100%;
+    width: 100%;
+ }
+ .hidden-text{
+   font-size: larger;
+   display: none;
+   margin-top: 5%;
+ }
+ 
+ .page-content{
+    width: 30%;
+    height:30%;
+    margin-left: 35%;
+    margin-top: 5%;
+   position: relative;
+ }
+ .btn{
+    width: 30%;
+    height: 30%;
+    box-shadow: 5px;
+    font-size: large;
+    margin-top: 5%;
+ }
+a{
+   text-decoration:none;
+   
+}
+.btn:hover {
+   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+ }
+ .pink{
+    
+    background-color: #FF6984; 
+ }
+ .red{
+    
+    background-color: red;
+ }
+ .img{
+   width: 100%;
+
+ }
+ .yes-btn{
+   margin-left: 5%;
+ }
+ .no-btn{
+   position: absolute;
+   margin-left: 15%;
+ }
+ h1{
+   margin-top:5%;
+   margin-left:10%;
+ }
