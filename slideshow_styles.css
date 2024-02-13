@@ -17,7 +17,7 @@ body {
 }
 img{
 	
-
+height: -webkit-fill-available;
 
 
 }
@@ -37,10 +37,10 @@ p{
   
   .mySlides {
 	display: none;
-	padding: 30px;
+	padding-top: 0.5%;
 	text-align: center;
 	width: 100%;
-	height:fit-content;
+	height:85%;
   }
   .mySlides1{
 	display: flex;
