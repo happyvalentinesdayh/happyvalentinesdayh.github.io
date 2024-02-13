@@ -1,4 +1,4 @@
-/* Slideshow container */
+
 * {
 	box-sizing: border-box;
    }
@@ -39,6 +39,8 @@ p{
 	display: none;
 	padding: 30px;
 	text-align: center;
+	width: 100%;
+	height:fit-content;
   }
   .mySlides1{
 	display: flex;
